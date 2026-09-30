@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: Jamovi.Desktop.Current
-PackageVersion: 28.3.0.0
+PackageVersion: 28.4.0.0
 InstallerLocale: en-US
 InstallerType: nullsoft
 Scope: machine
@@ -20,7 +20,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles%\Jamovi'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://www.jamovi.org/downloads/jamovi-28.3.0.0-win-x64.exe
-  InstallerSha256: 5367F69E6E7D66BA2FE89CF9EF7F2784F1AA3FA1CEDC06B952B35C93A2B05C4E
+  InstallerUrl: https://www.jamovi.org/downloads/jamovi-28.4.0.0-win-x64.exe
+  InstallerSha256: 653643B8C594DCC2199709B5ABFFB0F028DE7802724FC35E787AB62403B758FF
 ManifestType: installer
 ManifestVersion: 1.12.0
