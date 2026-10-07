@@ -23,6 +23,7 @@ Installers:
     DefaultInstallLocation: '%ProgramFiles%\Jamovi'
 - Architecture: x64
   InstallerType: msix
+  MinimumOSVersion: 10.0.17763.0
   InstallerUrl: https://archives.jamovi.org/jamovi-28.8.0.0-win-x64.msix
   InstallerSha256: 0E857E6AA4BED35A7343704CF477F6F9DBDCF345343FFC7AABAF8B9F5F02F74D
   SignatureSha256: 3F76ED47C6DEFD0AC5023E89E3DFD9A8EA2F7FD342E62E137E15E740CA8D69C4
