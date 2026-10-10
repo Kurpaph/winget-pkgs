@@ -14,7 +14,7 @@ Installers:
   InstallerType: nullsoft
   Scope: machine
   InstallerUrl: https://archives.jamovi.org/jamovi-28.9.0.0-win-x64.exe
-  InstallerSha256: 6530EB3FE92852381F451D537B6F37A71983D9225833EDA117D9C76A9BE6511A
+  InstallerSha256: ec29a3e9496c67d3e90ab75283ea070e59c513f75abfa3180de6f1df0763d1df
   InstallerSwitches:
     InstallLocation: /D=<INSTALLPATH>
   ProductCode: Jamovi Desktop
@@ -26,8 +26,8 @@ Installers:
   InstallerType: msix
   MinimumOSVersion: 10.0.17763.0
   InstallerUrl: https://archives.jamovi.org/jamovi-28.9.0.0-win-x64.msix
-  InstallerSha256: 0E857E6AA4BED35A7343704CF477F6F9DBDCF345343FFC7AABAF8B9F5F02F74D
-  SignatureSha256: 3F76ED47C6DEFD0AC5023E89E3DFD9A8EA2F7FD342E62E137E15E740CA8D69C4
+  InstallerSha256: 06BD46B5F4ACEACA8BE4FDFAE957BE81AD23989F0C400168424809958D7A13DE
+  SignatureSha256: E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855
   PackageFamilyName: JamoviProject.jamovi_7ddzc7zgxgzge
 ManifestType: installer
 ManifestVersion: 1.12.0
